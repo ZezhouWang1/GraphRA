@@ -24,3 +24,4 @@ pip install pyg_lib torch_scatter torch_sparse torch_cluster torch_spline_conv -
 
 pip install ogb<br>
 
+(To facilitate operations, we have processed the embeddings and top-k neighbor nodes that will be used during training and placed them in the data folder)<br>
