@@ -1,0 +1,1 @@
+Download the checkpoints here: https://drive.google.com/file/d/1wLaPMSDAxCMcl3pJ-0bYymOid3gkULc3/view, and put the contents in this folder.
