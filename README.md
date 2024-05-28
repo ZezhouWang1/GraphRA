@@ -1,7 +1,7 @@
 # GraphRA
 Implementing the RAG technique to facilitate the LLMs in graph information learning, achieving 73.29% on the obgn-arxiv dataset.<br>
 This project is used as the final research project of COMP4880 Computational Methods for Network Scinece at The Australian National University (ANU).<br>
-The contributors are 1. Oucheng Liu (Core code) and 2. Zezhou Wang, from ANU.<br>
+The contributors are 1th. Oucheng Liu and 2th. Zezhou Wang, from ANU.<br>
 
 
 To run the GraphRA project, install the necessary library in following sequence: <br>
