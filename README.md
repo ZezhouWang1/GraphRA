@@ -7,31 +7,31 @@ The contributors are 1th. Oucheng Liu and 2th. Zezhou Wang, from ANU.<br>
 # To run the GraphRA project, install the necessary library in following sequence: <br>
 
 ```
-pip install bitsandbytes<br>
+pip install bitsandbytes
 ```
 ```
-pip install git+https://github.com/huggingface/transformers.git<br>
+pip install git+https://github.com/huggingface/transformers.git
 ```
 ```
-pip install git+https://github.com/huggingface/peft.git<br>
+pip install git+https://github.com/huggingface/peft.git
 ```
 ```
-pip install git+https://github.com/huggingface/accelerate.git<br>
+pip install git+https://github.com/huggingface/accelerate.git
 ```
 ```
-pip install datasets<br>
+pip install datasets
 ```
 ```
-pip install trl<br>
+pip install trl
 ```
 ```
-pip install torch_geometric<br>
+pip install torch_geometric
 ```
 ```
-pip install pyg_lib torch_scatter torch_sparse torch_cluster torch_spline_conv -f https://data.pyg.org/whl/torch-2.1.0+cu121.html<br>
+pip install pyg_lib torch_scatter torch_sparse torch_cluster torch_spline_conv -f https://data.pyg.org/whl/torch-2.1.0+cu121.html
 ```
 ```
-pip install ogb<br>
+pip install ogb
 ```
 # To facilitate operations, we have processed the embeddings and top-k neighbor nodes that will be used during training and placed them in the data folder
 
