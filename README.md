@@ -49,6 +49,9 @@ NC-arxiv.py: Node classification task for the ogbn-arxiv dataset. <br>
 download_embs.py: Downloading the SimTeg embeddings (x_embs.pt) for ogbn-arxiv dataset. <br>
 (We provided the embedding for the Cora dataset, but for arxiv and PubMed dataset, the embeddings are extremely big. Therefore, we recommend to download the SimTeg embeddings from this link: <br> https://utexas.app.box.com/s/i7y03rzm40xt9bjbaj0dfdgxeyjx77gb) 
 
-(These tasks require extensive compatutional resources, thus we recommend high-performance computer or GPU for execution.)
+(These tasks require extensive compatutional resources, thus we recommend high-performance computer or GPU for execution.) <br>
+
+# Acknowledgement:
+https://utexas.app.box.com/s/i7y03rzm40xt9bjbaj0dfdgxeyjx77gb is provided by Chen et al. from University of Texas at Austin within their LLaGA framework.
 
 
