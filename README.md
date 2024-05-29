@@ -4,7 +4,7 @@ This project is used as the final research project of COMP4880 Computational Met
 The contributors are 1th. Oucheng Liu and 2th. Zezhou Wang, from ANU.<br>
 
 
-# To run the GraphRA project, install the necessary library in following sequence: <br>
+# To run the GraphRA project, install the necessary library in following sequence (we assume torch version 2.1.0 and CUDA 12.1): <br>
 
 ```
 pip install bitsandbytes
