@@ -38,8 +38,13 @@ Each python file is corresponding to a specific task (link prediction or node cl
 
 LP-Cora.py: Link Prediction task for the Cora dataset. <br>
 
-LP-Pubmed.py: Link Prediction for the PubMed dataset. <br>
+LP-Pubmed.py: Link Prediction task for the PubMed dataset. <br>
 
+NC-Cora.py: Node classification task for the Cora dataset. <br>
+
+NC-PubMed.py: Node classification task for the PubMed dataset. <br>
+
+NC-arxiv.py: Node classification task for the ogbn-arxiv dataset. <br>
 
 
 
