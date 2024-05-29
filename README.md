@@ -47,7 +47,7 @@ NC-PubMed.py: Node classification task for the PubMed dataset. <br>
 NC-arxiv.py: Node classification task for the ogbn-arxiv dataset. <br>
 
 download_embs.py: Downloading the SimTeg embeddings (x_embs.pt) for ogbn-arxiv dataset. <br>
-(for Cora and PubMed dataset, the SimTeg embeddings can be downloaded from this link: https://utexas.app.box.com/s/i7y03rzm40xt9bjbaj0dfdgxeyjx77gb) 
+(We provided the embedding for the Cora dataset, but for arxiv and PubMed dataset, the embeddings are extra big and the SimTeg embeddings can be downloaded from this link: https://utexas.app.box.com/s/i7y03rzm40xt9bjbaj0dfdgxeyjx77gb) 
 
 (These tasks require extensive compatutional resources, thus we recommend high-performance computer or GPU for execution.)
 
