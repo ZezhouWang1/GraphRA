@@ -46,6 +46,8 @@ NC-PubMed.py: Node classification task for the PubMed dataset. <br>
 
 NC-arxiv.py: Node classification task for the ogbn-arxiv dataset. <br>
 
-(We strongly recommended some high-performance)
+
+
+(These tasks require extensive compatutional resources, thus we recommend high-performance computer or GPU for execution.)
 
 
