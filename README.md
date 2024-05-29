@@ -36,8 +36,10 @@ pip install ogb
 # User Guide
 Each python file is corresponding to a specific task (link prediction or node classification) on the specific dataset.<br>
 
-LP-Cora.py: Link Prediction task of the Cora dataset. <br>
+LP-Cora.py: Link Prediction task for the Cora dataset. <br>
 
-LP-Pubmed.py: Link Prediction 
+LP-Pubmed.py: Link Prediction for the PubMed dataset. <br>
+
+
 
 
