@@ -4,9 +4,11 @@ This project is used as the final research project of COMP4880 Computational Met
 The contributors are 1th. Oucheng Liu and 2th. Zezhou Wang, from ANU.<br>
 
 
-To run the GraphRA project, install the necessary library in following sequence: <br>
+# To run the GraphRA project, install the necessary library in following sequence: <br>
 
+```
 pip install bitsandbytes<br>
+```
 
 pip install git+https://github.com/huggingface/transformers.git<br>
 
