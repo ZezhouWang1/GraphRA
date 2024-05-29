@@ -34,8 +34,10 @@ pip install pyg_lib torch_scatter torch_sparse torch_cluster torch_spline_conv -
 pip install ogb
 ```
 # User Guide
-Each python file is corresponding to a specific task (link prediction or node classification) for specific dataset.<br>
+Each python file is corresponding to a specific task (link prediction or node classification) on the specific dataset.<br>
 
+LP-Cora.py: Link Prediction task of the Cora dataset. <br>
 
+LP-Pubmed.py: Link Prediction 
 
 
